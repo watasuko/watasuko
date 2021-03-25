@@ -1,0 +1,30 @@
+body{
+  width: 100%;
+  text-align: center;
+}
+.header{
+  width:100%;
+  height:620px;
+  background-image: url(../images/header.png);
+  background-size: cover;
+}
+.header-nav{
+  color: white;
+}
+.sumple{
+  margin: 0 auto;
+  width: 960px;
+  /* height: 64px; */
+  font-size: 36px;
+  font-family: Myriad Pro;
+  position: relative;
+  top: 40px;
+  /* margin-top: 40px; */
+  
+}
+.header-title{
+  font-size: 120px;
+  font-family: Myriad Pro;
+  font-weight: normal;
+  margin-top: 240px;
+}
